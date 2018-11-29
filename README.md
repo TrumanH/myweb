@@ -1,3 +1,17 @@
+## A simple toy project:A classic newsweb backend which start up with django framwork.
+采用了百度开源的 Uediter 编辑器
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TrumanH/myweb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
