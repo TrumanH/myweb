@@ -1,5 +1,5 @@
 ## A simple toy project: classic newsweb backend which start up with django framwork.
-集成了百度开源的 Uediter 编辑器
+编辑界面集成了百度开源的 Uediter 编辑器
 
 
 
